@@ -21,7 +21,7 @@ repository               : "https://xdisworking.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_xd_small.jpeg"
+  avatar           : "xingyuj.jpg"
   name             : "Xingyu DENG"
   pronouns         : # example: "she/her"  
   bio              : "PhD student / Natural language processing"
