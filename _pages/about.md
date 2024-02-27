@@ -11,3 +11,5 @@ I am Xingyu DENG (邓星宇), a PhD candidate at the University of Sheffield, su
 
 Prior to Sheffield, I completed my undergraduate and master's degrees at the University of Manchester. My master's project is developing a healthcare fact checking system, supervised by [Prof Goran Nenadic](https://personalpages.manchester.ac.uk/staff/gnenadic/). My undergraduate project is transferring Spiking Neural Networks (SNN) into classic ANN tasks to analyse SNN's potentials, which is experimenting based on the [SpiNNaker](https://en.wikipedia.org/wiki/SpiNNaker), supervised by [Prof Steve Furber](https://en.wikipedia.org/wiki/Steve_Furber).
 
+My email is xdeng37 [at] sheffield [dot] ac [dot] uk
+
